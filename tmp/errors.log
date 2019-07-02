@@ -60,3 +60,71 @@
 ===================
 [2019-06-10 23:36:52] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\public\index.php | Строка: 7 
 ===================
+[2019-07-02 22:11:25] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\public\index.php | Строка: 7 
+===================
+[2019-07-02 22:11:26] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\public\index.php | Строка: 7 
+===================
+[2019-07-02 22:50:01] Текст ошибки: Page not found 404 | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 22:50:42] Текст ошибки: Page not found 404 | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 22:50:53] Текст ошибки: Page not found 404 | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 22:51:00] Текст ошибки: Page not found 404 | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 22:51:01] Текст ошибки: Page not found 404 | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 22:51:03] Текст ошибки: Page not found 404 | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 22:51:10] Текст ошибки: Page not found 404 | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 22:51:58] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 22:58:25] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 22:58:29] Текст ошибки: Call to undefined function ishop\degub() | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 56 
+===================
+[2019-07-02 23:01:35] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:06:16] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:09:33] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:09:34] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:09:34] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:09:34] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:09:34] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:09:34] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:09:34] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:09:34] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:09:35] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:09:35] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:09:35] Текст ошибки: Page not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:23:48] Текст ошибки: Controllerapp\controllers\PageViewControllernot found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 29 
+===================
+[2019-07-02 23:23:53] Текст ошибки: Class 'app\controllers\PageViewController' not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:23:56] Текст ошибки: Class 'app\controllers\PageViewController' not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:23:56] Текст ошибки: Class 'app\controllers\PageViewController' not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:23:59] Текст ошибки: Class 'app\controllers\PageController' not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 26 
+===================
+[2019-07-02 23:26:32] Текст ошибки: Controllerapp\controllers\PageControllernot found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 34 
+===================
+[2019-07-02 23:26:55] Текст ошибки: Controller app\controllers\PageControllernot found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 34 
+===================
+[2019-07-02 23:27:05] Текст ошибки: Controller app\controllers\PageController not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 34 
+===================
+[2019-07-02 23:28:39] Текст ошибки: Controller app\controllers\PageController not found | Файл: M:\OSPanel\domains\ishop\vendor\ishop\core\Router.php | Строка: 34 
+===================
