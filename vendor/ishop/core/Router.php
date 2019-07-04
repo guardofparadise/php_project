@@ -20,6 +20,8 @@ class Router
 	}
 
 	public static function dispatch($url) {
+		$url = self::removeQueryString($url);
+		
 		if(self::matchRoute($url)) {
 			$controller = 'app\controllers\\' . self::$route['prefix'] . self::$route['controller'] . 'Controller';
 			if(class_exists($controller)) {
@@ -27,6 +29,7 @@ class Router
 				$action = self::lowerCamelCase(self::$route['action']). 'Action';
 				if(method_exists($controllerObject, $action)) {
 					$controllerObject->$action();
+					$controllerObject->getView();
 				} else {
 					throw new \Exception('Method '.$controller::$action.' not found',404);
 				}
@@ -69,5 +72,16 @@ class Router
 
 	protected static function lowerCamelCase($name) {
 		return lcfirst(self::upperCamelCase($name));
+	}
+
+	protected static function removeQueryString($url) {
+		if($url) {
+			$params = explode('&', $url, 2);
+			if(!strpos($params[0], '=')) {
+				return rtrim($params[0], '/');
+			} else {
+				return '';
+			}
+		}
 	}
 }

@@ -2,8 +2,16 @@
 
 namespace app\controllers;
 
-class MainController {
+use ishop\Cache;
+
+use ishop\App;
+
+class MainController extends AppController {
+
 	public function indexAction() {
-		echo __METHOD__;
+
+		$this->setMeta(App::$app->getProperty('shop_name'), 'description', 'keywords news helo');
+		
 	}
+
 }
