@@ -284,3 +284,207 @@
 ===================
 [2019-07-05 17:52:35] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
 ===================
+[2019-07-09 14:32:54] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 14:34:50] Текст ошибки: Class 'app\controllers\App' not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\controllers\AppController.php | Строка: 15 
+===================
+[2019-07-09 14:35:03] Текст ошибки: Class 'app\controllers\App' not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\controllers\AppController.php | Строка: 15 
+===================
+[2019-07-09 14:35:04] Текст ошибки: Class 'app\controllers\App' not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\controllers\AppController.php | Строка: 15 
+===================
+[2019-07-09 14:35:05] Текст ошибки: Class 'app\controllers\App' not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\controllers\AppController.php | Строка: 15 
+===================
+[2019-07-09 14:35:05] Текст ошибки: Class 'app\controllers\App' not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\controllers\AppController.php | Строка: 15 
+===================
+[2019-07-09 14:49:06] Текст ошибки: Call to undefined method ishop\Registry::getPropery() | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\controllers\AppController.php | Строка: 17 
+===================
+[2019-07-09 15:01:00] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 11 
+===================
+[2019-07-09 15:02:31] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 11 
+===================
+[2019-07-09 15:02:32] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 11 
+===================
+[2019-07-09 15:02:32] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 11 
+===================
+[2019-07-09 15:07:07] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 15:16:25] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 15:17:49] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:17:50] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:17:50] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:17:50] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:17:57] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:17:58] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:17:58] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:17:59] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:17:59] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:17:59] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:18:00] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:18:00] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:18:00] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:18:58] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:18:59] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:18:59] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:19:05] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 11 
+===================
+[2019-07-09 15:19:13] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 11 
+===================
+[2019-07-09 15:19:14] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 11 
+===================
+[2019-07-09 15:19:14] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 11 
+===================
+[2019-07-09 15:19:14] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 11 
+===================
+[2019-07-09 15:19:43] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:20:00] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:20:45] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:20:45] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:20:46] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:20:46] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:20:46] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:21:25] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:21:26] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:21:26] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:21:26] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:21:26] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:21:26] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:21:27] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:21:34] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:21:34] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:21:35] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:21:35] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:21:46] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:21:47] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:21:47] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:21:48] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 15:22:19] Текст ошибки: Cannot access empty property | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\widgets\currency\Currency.php | Строка: 13 
+===================
+[2019-07-09 15:22:19] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 15:23:04] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 16:48:46] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 16:50:29] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 16:51:04] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:08:40] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:08:44] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:08:46] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:08:47] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:08:50] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:08:52] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:11:06] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:11:11] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:11:28] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:11:35] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:12:03] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:12:03] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:12:05] Текст ошибки: View not found E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project/app/views/Currency/change.php | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\base\View.php | Строка: 39 
+===================
+[2019-07-09 17:12:05] Текст ошибки: View not found E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project/app/views/Currency/change.php | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\base\View.php | Строка: 39 
+===================
+[2019-07-09 17:12:54] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:12:57] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:17:50] Текст ошибки: Class 'isho\App' not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\views\Main\index.php | Строка: 43 
+===================
+[2019-07-09 17:18:49] Текст ошибки: Class 'isho\App' not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\views\Main\index.php | Строка: 43 
+===================
+[2019-07-09 17:18:49] Текст ошибки: Class 'isho\App' not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\views\Main\index.php | Строка: 43 
+===================
+[2019-07-09 17:18:50] Текст ошибки: Class 'isho\App' not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\views\Main\index.php | Строка: 43 
+===================
+[2019-07-09 17:18:50] Текст ошибки: Class 'isho\App' not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\views\Main\index.php | Строка: 43 
+===================
+[2019-07-09 17:18:50] Текст ошибки: Class 'isho\App' not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\views\Main\index.php | Строка: 43 
+===================
+[2019-07-09 17:19:02] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:19:27] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:19:30] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:20:03] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:22:11] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:22:32] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:22:49] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:23:17] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:23:25] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:23:39] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:25:14] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:41:31] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:42:17] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:47:37] Текст ошибки: Class 'app\controllers\Cache' not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\app\controllers\AppController.php | Строка: 22 
+===================
+[2019-07-09 17:49:04] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:50:01] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:50:10] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
+[2019-07-09 17:50:11] Текст ошибки: Page not found | Файл: E:\OpenServerBasic_5.2.9\OSPanel\domains\php_project\vendor\ishop\core\Router.php | Строка: 40 
+===================
