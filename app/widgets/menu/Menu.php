@@ -4,7 +4,7 @@ namespace app\widgets\menu;
 
 use ishop\Cache;
 
-class Menu {
+class Menu extends AppController {
 
 	protected $data;
 	protected $tree;
@@ -36,7 +36,10 @@ class Menu {
 		$cache = Cache::instance();
 		$this->menuHtml = $cache->get($this->cacheKey);
 		if(!$this->menuHtml) {
-
+			$this->data = App::$app->getProperty('cats');
+			if(!$this->data) {
+				$this->data = \R::getAssoc('SELECT * FROM category');
+			}
 		}
 
 		$this->output();
@@ -44,5 +47,17 @@ class Menu {
 
 	protected function output() {
 		echo $this->menuHtml;
+	}
+
+	protected function getTree() {
+
+	}
+
+	protected function getMenuHtml($tree, $tab = '') {
+
+	}
+
+	protected function catToTemplate($category, $tab, $id) {
+
 	}
 }
